@@ -11,6 +11,7 @@ namespace DateTimeLAB
 
         static void Main(string[] args)
         {
+            //Hej
 
             //DateTime myBirthday = DateTime.Parse("1992/01/30");
             //TimeSpan myAge = DateTime.Now.Subtract(myBirthday);
